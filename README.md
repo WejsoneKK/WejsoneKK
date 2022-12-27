@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emil</h1>
-<h3 align="center">A passionate Java, Web, Mobile APP developer from Poland</h3>
+<h3 align="center">A passionate Freelancer Developer, Gamer </h3>
 
 [![7daycodes](https://wakatime.com/share/@8af6af60-bc6a-4845-b448-62f705567a6c/7619ebbd-2c16-4c08-9ccf-01f87bf534c4.svg)
 
