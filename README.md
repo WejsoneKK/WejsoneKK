@@ -42,6 +42,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wejsonekk&show_icons=true&locale=en" alt="wejsonekk" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wejsonekk&" alt="wejsonekk" /></p>
-![](https://raw.githubusercontent.com/WejsoneKK/gh-profile-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 [![7daylangusage](https://wakatime.com/share/@8af6af60-bc6a-4845-b448-62f705567a6c/aee23dd8-b383-4b69-a8ee-ac87487c9f6d.svg)
