@@ -35,12 +35,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wejsonekk&show_icons=true&locale=en&layout=compact" alt="wejsonekk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wejsonekk&show_icons=true&locale=en" alt="wejsonekk" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wejsonekk&show_icons=true&locale=en" alt="wejsonekk" /></p>
 
 <a href="https://github.com/WejsoneKK/BungeeCord-BotFilter">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WejsoneKK&repo=BungeeCord-BotFilter" />
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wejsonekk&" alt="wejsonekk" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wejsonekk&" alt="wejsonekk" /></p>
 <a href="https://github.com/WejsoneKK/Pearl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WejsoneKK&repo=Pearl" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WejsoneKK&repo=Pearl" />
 </a>
