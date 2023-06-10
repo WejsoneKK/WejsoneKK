@@ -46,5 +46,5 @@
 <a href="https://github.com/WejsoneKK/Pearl">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WejsoneKK&repo=Pearl"/>
 </a>
-[![WejsoneKK's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WejsoneKK)](https://github.com/WejsoneKK/WejsoneKK)
+[![WejsoneKK's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@WejsoneKK)](https://github.com/WejsoneKK/WejsoneKK)
 
