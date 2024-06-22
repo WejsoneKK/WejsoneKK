@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emil Janda
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is WejsoneKK
 ==================================================================================================================================
 
-Java Developer
+Full-Stack Java Developer
 --------------
 
 * 🖥️  See my portfolio at [Check my Portfollio projects](http://xr-code.pl/profile/1/projects)
