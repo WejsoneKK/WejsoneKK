@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------
 
-* 🖥️  See my portfolio at [Check my Portfollio projects](http://wejsonekk.eu/projects)
-* ✉️  You can contact me at [wejsonekk@gmail.com](mailto:wejsonekk@gmail.com)
-* 🚀  I'm currently working on [PearCraft Minecraft Server](http://pearcraft.pl)
-* 🧠  I'm learning A new Javascript Framework
-* 🤝  I'm open to collaborating on Web Projects
+* 🖥️  See my portfolio at [Check my Portfollio projects](http://xr-code.pl/profile/1/projects)
+* ✉️  You can contact me at [wejsonekk.contact@gmail.com](mailto:wejsonekk.contact@gmail.com)
+* 🚀  I'm currently working on [StarBlock Minecraft Server](http://starblock.pl)
+* 🧠  I'm learning Kotlin Mobile App
+* 🤝  I'm open to collaborating on Mobile App Projects
 
 ### Skills
 
