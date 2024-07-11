@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is WejsoneKK
 ==================================================================================================================================
 
-Full-Stack Java Developer
+Full-Stack Java/Kotlin Developer
 --------------
 
-* 🖥️  See my portfolio at [Check my Portfollio projects](http://xr-code.pl/profile/1/projects)
+* 🖥️  See my portfolio at [Check my Portfollio projects](http://xr-code.pl/profile/1/projects/)
 * ✉️  You can contact me at [wejsonekk.contact@gmail.com](mailto:wejsonekk.contact@gmail.com)
-* 🚀  I'm currently working on [StarBlock Minecraft Server](http://starblock.pl)
-* 🧠  I'm learning Kotlin Mobile App
-* 🤝  I'm open to collaborating on Mobile App Projects
+* 🚀  I'm currently working on [StarBlock Minecraft Server](http://starblock.pl) and [BomboCraft Network](https://bombocraft.com)
+* 🧠  I'm learning React/NextJs and More Kotlin 
+* 🤝  I'm open to collaborating on Kotlin Open Source projects
 
 ### Skills
 
