@@ -6,9 +6,9 @@ Full-Stack Java/Kotlin Developer
 
 * 🖥️  See my portfolio at [Check my Portfollio projects](http://xr-code.pl/profile/1/projects/)
 * ✉️  You can contact me at [wejsonekk.contact@gmail.com](mailto:wejsonekk.contact@gmail.com)
-* 🚀  I'm currently working on [StarBlock Minecraft Server](http://starblock.pl) and [BomboCraft Network](https://bombocraft.com)
-* 🧠  I'm learning React/NextJs and More Kotlin 
-* 🤝  I'm open to collaborating on Kotlin Open Source projects
+* 🚀  I'm currently working on [MineGry Network](http://minegry.pl) and [BomboCraft Network](https://bombocraft.com)
+* 🧠  I'm learning React, Web Development
+* 🤝  I'm open to collaborating on Java/Kotlin/React Open Source & closed Source projects
 
 ### Skills
 
