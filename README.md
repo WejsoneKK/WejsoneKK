@@ -12,8 +12,8 @@
 
 ###
 
-<p align="center">Hello World!!</p>
-
+<p align="center">Hi 👋, I'm Emil!!</p>
+<p align="center">A passionate full-stack developer from Poland </p>
 ###
 
 <br clear="both">
