@@ -103,3 +103,4 @@
 <img src="https://raw.githubusercontent.com/WejsoneKK/WejsoneKK/output/snake.svg" alt="Snake animation" />
 
 ###
+[![wakatime](https://wakatime.com/badge/user/8af6af60-bc6a-4845-b448-62f705567a6c.svg)](https://wakatime.com/@8af6af60-bc6a-4845-b448-62f705567a6c)
