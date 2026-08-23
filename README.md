@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Emil, and I'm a full-stack developer.<br>I'm currently working on zentoria.pl.<br>I'm currently learning TypeScript, Tailwind.css, React Native, and other front-end frameworks.<br>Programming is my hobby—I enjoy it and love doing it.<br>If you're looking for someone to discuss these topics with,
+Hi, I'm Emil, and I'm a full-stack developer.<br>I'm currently working on zentoria.pl.<br>I'm currently learning TypeScript, Tailwind.css, React Native, and other front-end frameworks.<br>Programming is my hobby I enjoy it and love doing it.<br>If you're looking for someone to discuss these topics with,
 
 
 ## 🌐 Socials:
