@@ -8,7 +8,7 @@ Do tej pory zrealizowałem blisko 200 mniejszych zleceń i prywatnych projektów
 
 ### 💻 Mój Tech Stack
 
-* **Backend:** Java, Kotlin, REST API
+* **Backend:** Java, Kotlin
 * **Frontend:** TypeScript, JavaScript, React, Next.js, Tailwind CSS
 * **Narzędzia:** Git, SQL
 
